@@ -1,5 +1,5 @@
 html {
-  box-sizing: border-box; //include the padding to the height and width
+  box-sizing: border-box;
   font-family: "Roboto", sans-serif;
   font-family: "Roboto Mono", monospace;
   font-family: "Work Sans", sans-serif;
@@ -30,10 +30,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  
-  &__container {
-  }
-  &__button {
-    align-items: center;
-  }
+}
+.main__button {
+  align-items: center;
 }
