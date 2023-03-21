@@ -34,6 +34,7 @@ body {
 }
 .main__chore {
   border: 2px solid black;
+  padding: 3rem;
   height: 8rem;
   width: 15rem;
 }
